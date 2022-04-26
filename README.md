@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Haider</h1>
 <h3 align="center">A professional FullStack Developer👩‍💻 from Peshawar Pakistan 🇵🇰</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafahaider508" alt="mustafahaider508" /></a> </p>
-
 - 🔭 I’m currently working on **university final year project.**
 
 - 🌱 I’m currently learning **Web3,NFT,GraphQL,DevOps**
@@ -33,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafahaider508&show_icons=true&locale=en" alt="mustafahaider508" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafahaider508&" alt="mustafahaider508" /></p>
+
