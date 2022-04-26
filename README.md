@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Haider</h1>
 <h3 align="center">A professional FullStack Developer👩‍💻 from Peshawar Pakistan 🇵🇰</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif">
 - 🔭 I’m currently working on **university final year project.**
 
 - 🌱 I’m currently learning **Web3,NFT,GraphQL,DevOps**
