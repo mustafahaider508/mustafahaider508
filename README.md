@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mustafa Haider</h1>
-<h3 align="center">A professional FullStack Developer👩‍💻 from Peshawar Pakistan 🇵🇰</h3>
+<h3 align="center">A professional MERNStack Developer👩‍💻 from Peshawar Pakistan 🇵🇰</h3>
 <img align="right" alt="Coding" width="400" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif">
-- 🔭 I’m currently working on **university final year project.**
+- 🔭 I’m currently working on **Company Product with CodeExperts Ldt.**
 
-- 🌱 I’m currently learning **Web3,NFT,GraphQL,DevOps**
+- 🌱 I’m currently learning **Nestjs,prisma,postgresql,DevOps**
 
-- 👯 I’m looking to collaborate on **Databot.**
+- 👯 I’m looking to collaborate on **Nest Js.**
 
 - 👨‍💻 All of my projects are available at [https://dreamy-swartz-385425.netlify.app/#home](https://dreamy-swartz-385425.netlify.app/#home)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **linkedin**
 
-- ⚡ Fun fact **I eat, sleep and breathe React.**
+- ⚡ Fun fact **I eat, sleep and breathe React/Next.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
