@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Haider</h1>
-<h3 align="center">A professional MERNStack Developer👩‍💻 from Pakistan 🇵🇰</h3>
+<h3 align="center">A professional MERNStack Developer👩‍💻 </h3>
 <img align="right" alt="Coding" width="400" src="https://youwebsolutionz.files.wordpress.com/2021/12/learn-web-designing.gif">
 - 🔭 I’m currently working on **Company Product with CodeExperts Ldt.**
 
